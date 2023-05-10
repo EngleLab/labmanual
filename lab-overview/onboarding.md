@@ -81,7 +81,7 @@ We have an <mark style="color:green;">#ra-payroll</mark> channel on Slack. If yo
 If you are working for pay or Federal Work Study you will need to clock-in and clock-out every shift using [OneUSG Connect](https://oneusgconnect.usg.edu/). Failing to keep track of your time may mean that your paycheck will not be correct. At the very least, it will create extra work for your supervisors and our office staff, who are already busy.
 
 {% hint style="danger" %}
-If you forget to clock-in or out or you notice your hours on your timesheet are not correct, then please let the Time Approver know as soon as possible.
+If you forget to clock-in or out or you notice your hours on your timesheet are not correct, then please let the [Time Approver](people.md) know as soon as possible.
 {% endhint %}
 
 This is what you should see when you login to OneUSG. Here you can access the **Report Time** clock feature and check on your **Weekly Timesheet** to make sure your hours are correct.

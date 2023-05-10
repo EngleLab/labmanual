@@ -1,5 +1,13 @@
 # ⏰ Lab Shifts
 
+### Clock-in and Clock-out
+
+If you are working for pay or Federal Work Study you will need to clock-in and clock-out every shift using [OneUSG Connect](https://oneusgconnect.usg.edu/). Failing to keep track of your time may mean that your paycheck will not be correct. At the very least, it will create extra work for your supervisors and our office staff, who are already busy.
+
+{% hint style="danger" %}
+If you forget to clock-in or out or you notice your hours on your timesheet are not correct, then please let the [Time Approver](lab-overview/people.md) know as soon as possible.
+{% endhint %}
+
 ### First Week
 
 The first week for each RA should be devoted to the following:
@@ -78,11 +86,3 @@ Missing shifts for class-related things (writing a paper, studying for a test, t
 Emergencies come up. Let the lab manager or a graduate student know if something is going on and you need to miss on short notice. We reserve the right to ask for documentation and, if this becomes a common occurrence, we will do so.
 
 It is important to be on time. You will often be relieving someone else or coming in just as the lab opens/participants start showing up; if your shift starts at 10:00am be **in the lab** at 10:00am. Occasionally an RA is scheduled to come in right after a class or your shift ends right before the start of another class. We try to schedule shifts to avoid such instances, but this is not always possible. If that is your situation, let the lab manager or supervising graduate student know in advance, and you will be fine to leave a few minutes early or come in a few minutes late without penalty. **Other than that, tardiness (being even a minute late) will not be tolerated.** Again, if there is a legitimate reason that you are habitually late, just come talk to someone about it.
-
-### Clock-in and Clock-out
-
-If you are working for pay or Federal Work Study you will need to clock-in and clock-out every shift using [OneUSG Connect](https://oneusgconnect.usg.edu/). Failing to keep track of your time may mean that your paycheck will not be correct. At the very least, it will create extra work for your supervisors and our office staff, who are already busy.
-
-{% hint style="warning" %}
-If you forget to clock-in or out or you notice your hours on your timesheet are not correct, then please let the [Time Approver](lab-overview/people.md) know as soon as possible.
-{% endhint %}
