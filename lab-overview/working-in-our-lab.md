@@ -1,4 +1,4 @@
-# Working in Our Lab
+# 🥼 Working in Our Lab
 
 ### General Responsibilities
 
@@ -19,7 +19,9 @@ While working in the Attention and Working Memory Lab, you will:
 9. be able to have graduate students and/or Dr. Engle write letters of recommendation or serve as references (Note that we will be honest about our evaluation and do not guarantee a positive reference or recommendation. You may want to discuss this with us before using anyone from the lab as a reference so that you can have an idea of our impression of your quality of work while you were in the lab.), and
 10. conduct your own research study (such as for a senior thesis) within the constraints of the type of questions we address and of the work being paid for by our grant sponsors and under the guidance of a graduate student or Post-Doc.
 
-**Keep in mind that most of these benefits and outcomes are dependent on you and your level of involvement. Getting more involved in our research will take some initiative on your part, but, should you decide to do so, you will receive the full support of the lab in terms of guidance, mentorship, and feedback. Schedule a meeting with a graduate student or Post-Doc to discuss what opportunities there might be for you.**
+{% hint style="info" %}
+Keep in mind that most of these benefits and outcomes are dependent on you and your level of involvement. Getting more involved in our research will take some initiative on your part, but, should you decide to do so, you will receive the full support of the lab in terms of guidance, mentorship, and feedback. Schedule a meeting with a graduate student or Post-Doc to discuss what opportunities there might be for you.
+{% endhint %}
 
 ### What we study
 
