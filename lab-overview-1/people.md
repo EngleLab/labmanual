@@ -1,10 +1,6 @@
 # 🙋 People
 
-| Name                        | Role                   | Preferred contact        |               | Other contact                                                     |
-| --------------------------- | ---------------------- | ------------------------ | ------------- | ----------------------------------------------------------------- |
-| **Randall W. Engle**, Ph.D. | Principal Investigator | randall.engle@gatech.edu | J.S. Coon 348 | 404-644-8152 (Feel free to call at any time regarding lab issues) |
-|                             |                        |                          |               |                                                                   |
-|                             |                        |                          |               |                                                                   |
+<table data-view="cards"><thead><tr><th>Name</th><th>Preferred contact</th><th></th><th>Role</th><th>Other contact</th></tr></thead><tbody><tr><td><strong>Randall W. Engle</strong>, Ph.D.</td><td>randall.engle@gatech.edu</td><td>J.S. Coon 348</td><td>Principal Investigator</td><td>404-644-8152 (Feel free to call at any time regarding lab issues)</td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 **Randall W. Engle**, Ph.D. (Principal Investigator)\
 Professor, School of Psychology\
