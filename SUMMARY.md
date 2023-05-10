@@ -8,4 +8,6 @@
 * [🥼 Working in Our Lab](lab-overview/working-in-our-lab.md)
 * [📋 Onboarding](lab-overview/onboarding.md)
 
-## Onboarding
+## Lab Policies
+
+* [⚖ Ethics and Liability](lab-policies/ethics-and-liability.md)
