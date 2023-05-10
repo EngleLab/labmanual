@@ -35,16 +35,27 @@ It is up the RAs working the current shift to determine who does what role. In g
 
 The RA in the control room will often find that there is a lot of down time. We highly prefer that you use that time to do lab related work and not use it for your own personal work or free time.&#x20;
 
-Here is a list of things you can do when there is down time:
+Besides your normal responsibilities, here is a list of things you can do when there is down time:
 
 1.  **Check that the subject database is up-to-date**
 
     Have all the participants that came in today been added to the database. What about participants yesterday? Make sure their session date has been added! Is all their other information filled in?&#x20;
-2. **Send out reminder emails** \
-   Reminder emails need to be sent out for all participants coming in the next day
-3. **Check that the schedule is accurate and updated**\
+2. **Check that the schedule is accurate and updated**\
    Mistakes get made. That is okay. Always double check things like the schedule. For example, maybe you notice that a subject was scheduled twice for the same session. Check the email to see if they rescheduled, it might be the case that someone forgot to remove the session they needed to cancel.&#x20;
-4.
+3. **Are there enough lab / study materials?**\
+   Do more subject folders need to be created? Are any forms printed out (e.g., informed consent)? Are we running low on any supplies - let the lab manager know.&#x20;
+4. **Ask any graduate students and lab manager if there is anything to be done**\
+   Do not ask Randy, however. We might have some tasks for you to do. Please do not hesitate to come ask us, even if 99% of the time we say no. It does not bother us, and we prefer it.
+5. **Read our lab's publications (or publications related to our work)**\
+   This is a great way to be more informed as to the actual research we are doing and would be required if you want to get more involved in the lab. See our [publications](https://englelab.gatech.edu/publications) page or ask any of the graduate students if there is anything you should be reading.
+6. **Watch recorded lab meetings**\
+   We will try to record our lab meetings, that way if you want to stay informed on current projects and data you can do so.
+7. **Learn how to use R**\
+   We primarily use the programming language R to manage and process our data. If you become familiar with how to use R, this would be a great way for you to get more involved in the research. You can learn from many of the resources that are available online in addition to our lab's [useRguide](https://englelab.gatech.edu/useRguide/) that covers workflows and packages more specific to our lab.
+8. **Chat with us**\
+   Feel free to come by to discuss and ask questions related to our current research, life as a student, advice, or whatever! We might be busy but we enjoy engaging with you all so do not hesitate.
+9. **Keep the lab tidy**\
+   If you have any dishes in the sink, clean them! If the trash is overflowing take it out (at the end of the hall by the refrigerator) or put it out in the hallway for the custodial staff. Keep things in the lab organized (if a stapler, pens, etc. is just hanging out on a table, put it back on the shelf where it belongs).
 
 ### Absense & Tardiness
 
