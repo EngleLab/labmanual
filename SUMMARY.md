@@ -18,4 +18,4 @@
 
 ## Data and Software
 
-* [🗃 Data and Files](data-and-software/data-and-files.md)
+* [🗃 File Storage](data-and-software/file-storage.md)

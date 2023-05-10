@@ -1,4 +1,4 @@
-# 🗃 Data and Files
+# 🗃 File Storage
 
 We use Microsoft SharePoint to store and sync most of our files. However, we also store files on Dropbox, a Georgia Tech Z: drive server, and backup hard drives in the lab.
 
@@ -15,7 +15,7 @@ Our main SharePoint page is for the Control Room and can be accessed [here](http
 For now, there are three main folders on our lab's SharePoint:
 
 * **Control Room**\
-  Files related to operations in the control room are stored here. RA schedules, participant schedules, email templates, etc.
+  Files related to operations in the control room are stored here. RA schedules, participant schedules, email templates, running room log notebook, etc.
 * **Data Collection**\
   Files for every data collection study are stored here. This serves as a backup and a repository to access data files.
 * **Data Analysis**\
@@ -27,9 +27,11 @@ The running room computers have restricted network access so we cannot upload or
 
 We use the Z: drive to:
 
-1. **Copy subject data files** \
+1. **Store the Subject Database**\
+   This is where we store sensitive and identifiable data on our subjects that have participated in all the studies in our lab going back many years. This is a very important document and needs to be updated with every participant that comes in.
+2. **Copy subject data files** \
    Data files from an ongoing data collection study need to be copied over to the Z: drive and eventually onto SharePoint from another computer in the lab. Every study will have an R script called copy\_to\_zdrive.R that will automatically copy over all data files for that study to the Z: drive. RAs can be trained on how to do this process. Graduate students are responsible for writing the R script.
-2. **Add and update task files**\
+3. **Add and update task files**\
    The Z: drive is a convenient way to add and update E-Prime run files for a study onto each running room computer. It is advised to only add the E-run files (on the Z: drive and locally on the running room computers) to avoid multiple copies and versions of E-Studio files for the same task. If you want to test out and edit your E-Studio scripts on the running room computers I would advise to just do this through a USB thumb drive, and then copy the updated E-Studio file to SharePoint immediately.
 
 The Z: drive has limited storage space, and we would have to pay for more, so it is primarily just used for the temporary transfer of files.&#x20;
@@ -44,4 +46,14 @@ Also, given that eye tracking data files can use up a lot of storage we also use
 
 ### Dropbox
 
-We also have&#x20;
+We also have some lab files and even study data files stored on Dropbox. This is mainly because we started with Dropbox and have not ported it all over to SharePoint.
+
+Some critical documents we have on Dropbox are:
+
+* Lab website files
+* Task download files from our website
+* Grant documents
+* IRB documents&#x20;
+* Data files from older studies in our lab
+
+Dropbox is also locally synced to both contorol room computers
