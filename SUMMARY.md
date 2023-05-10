@@ -6,11 +6,13 @@
 
 * [🧠 What We Study](lab-overview/what-we-study.md)
 * [🥼 Working in Our Lab](lab-overview/working-in-our-lab.md)
-* [📋 Onboarding](lab-overview/onboarding.md)
 * [🙋 People](lab-overview/people.md)
+* [🌐 Lab Website](https://englelab.gatech.edu/)
+* [📘 Lab Publications](https://englelab.gatech.edu/publications)
 
 ## Lab Policies
 
+* [📋 Onboarding](lab-policies/onboarding.md)
 * [⚖ Ethics and Liability](lab-policies/ethics-and-liability.md)
 * [⏰ Lab Shifts](lab-policies/lab-shifts.md)
 * [👌 Lab Etiquette](lab-policies/lab-etiquette.md)
@@ -23,6 +25,4 @@
 
 ***
 
-* [🌐 Lab Website](https://englelab.gatech.edu/)
-* [📘 Lab Publications](https://englelab.gatech.edu/publications)
 * [☎ Department Contacts](department-contacts.md)

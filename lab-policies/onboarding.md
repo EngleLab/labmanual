@@ -24,7 +24,7 @@ At the end, you should get a completion report that looks like the following. Se
 
 If you plan on working for pay there are several steps to get you hired through Georgia Tech Human Resources.&#x20;
 
-The [person](people.md) in the lab in charge of Hiring and Onboarding will send your hiring information to our finance staff Kaysha Chandler ([kaysha.corniffe@psych.gatech.edu](mailto:kaysha.corniffe@psych.gatech.edu)). You will then be contacted by HR to start the hiring process.
+The [person](../lab-overview/people.md) in the lab in charge of Hiring and Onboarding will send your hiring information to our finance staff Kaysha Chandler ([kaysha.corniffe@psych.gatech.edu](mailto:kaysha.corniffe@psych.gatech.edu)). You will then be contacted by HR to start the hiring process.
 
 {% hint style="warning" %}
 Please complete any steps with HR (e.g., signing the I-9 form) as quickly as possible otherwise there may be a considerable delay in getting you hired, Georgia Tech HR is notoriously slow.
@@ -81,7 +81,7 @@ We have an <mark style="color:green;">#ra-payroll</mark> channel on Slack. If yo
 If you are working for pay or Federal Work Study you will need to clock-in and clock-out every shift using [OneUSG Connect](https://oneusgconnect.usg.edu/). Failing to keep track of your time may mean that your paycheck will not be correct. At the very least, it will create extra work for your supervisors and our office staff, who are already busy.
 
 {% hint style="danger" %}
-If you forget to clock-in or out or you notice your hours on your timesheet are not correct, then please let the [Time Approver](people.md) know as soon as possible.
+If you forget to clock-in or out or you notice your hours on your timesheet are not correct, then please let the [Time Approver](../lab-overview/people.md) know as soon as possible.
 {% endhint %}
 
 This is what you should see when you login to OneUSG. Here you can access the **Report Time** clock feature and check on your **Weekly Timesheet** to make sure your hours are correct.
@@ -96,7 +96,7 @@ We primarily use Slack for lab communications. [Join our Labs Slack Workspace](h
 
 ## Website Profile
 
-Send the [Website Manager](people.md) a photo and information about yourself to be added onto our [lab website](https://englelab.gatech.edu/people).
+Send the [Website Manager](../lab-overview/people.md) a photo and information about yourself to be added onto our [lab website](https://englelab.gatech.edu/people).
 
 Send the following information:
 
