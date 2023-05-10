@@ -7,6 +7,6 @@
 * [🙋 People](lab-overview/people.md)
 * [🥼 Working in Our Lab](lab-overview/working-in-our-lab.md)
 
-## Group 2
+## Onboarding
 
-* [Page 2](group-2/page-2.md)
+* [Page 2](onboarding/page-2.md)
