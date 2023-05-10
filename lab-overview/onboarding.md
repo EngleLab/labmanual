@@ -22,13 +22,13 @@ At the end, you should get a completion report that looks like the following. Se
 
 ### Complete HR Paperwork
 
-If you plan on working for pay there are several steps to get you hired through Georgia Tech Human Resources. Please complete any steps with HR (e.g., signing the I-9 form) as quickly as possible otherwise there may be a considerable delay in getting you hired, Georgia Tech HR is notoriously slow.
+If you plan on working for pay there are several steps to get you hired through Georgia Tech Human Resources.&#x20;
 
-Note that if you have been hired for a job or position on campus before, then we do not need to go through human resources and the process to get you hired will be faster.
+The [person](people.md) in the lab in charge of Hiring and Onboarding will send your hiring information to our finance staff Kaysha Chandler ([kaysha.corniffe@psych.gatech.edu](mailto:kaysha.corniffe@psych.gatech.edu)). You will then be contacted by HR to start the hiring process.
 
-The person in the lab in charge of Hiring and Onboarding will send your hiring information to our finance staff Kaysha Chandler ([kaysha.corniffe@psych.gatech.edu](mailto:kaysha.corniffe@psych.gatech.edu)) and let you know what information they need.
-
-At some point you will be contacted by HR to complete and/or sign some forms. It will be in your best interest to complete any of the steps requested by HR as soon as possible. One of the things you will need to sign in-person is the I-9 form. Delaying any of these steps will make the hiring process take longer and may lead to a significant delay in your payment.
+{% hint style="warning" %}
+Please complete any steps with HR (e.g., signing the I-9 form) as quickly as possible otherwise there may be a considerable delay in getting you hired, Georgia Tech HR is notoriously slow.
+{% endhint %}
 
 If you have any questions about completing the hiring process, direct your questions to our finance staff Kaysha Chandler ([kaysha.corniffe@psych.gatech.edu](mailto:kaysha.corniffe@psych.gatech.edu)).
 
@@ -64,7 +64,9 @@ Let us know when the request is sent and we will inform Dr. Engle so it is appro
 
 ### OneUSG
 
+{% hint style="info" %}
 If you are working for course credit, you can ignore this section. It only applies to RAs working for pay.
+{% endhint %}
 
 OneUSG is the system you will use to log your hours so that you can get paid. You will be paid every two weeks. Payments typically are sent out the week after a pay period ends.
 
@@ -72,13 +74,15 @@ Once you complete all the HR paperwork, you will eventually be added as a studen
 
 When you first start working you will have to keep track of your hours - start and end times for each shift - on your own. When you are added onto OneUSG under our lab we will then ask you to send us your hours and we will get them retroactively submitted on OneUSG.
 
-We have an #ra-payroll channel on Slack. If you are working for pay or Federal Work Study, then you need to make sure you are added to this Slack channel. Please check if you are or not. If you are not, then join the channel or request that the Lab Manager or Time Approver adds you to the channel.
+We have an <mark style="color:green;">#ra-payroll</mark> channel on Slack. If you are working for pay or Federal Work Study, then you need to make sure you are added to this Slack channel. Please check if you are or not. If you are not, then join the channel or request that the Lab Manager or Time Approver adds you to the channel.
 
 ### Clock-in and Clock-out
 
 If you are working for pay or Federal Work Study you will need to clock-in and clock-out every shift using [OneUSG Connect](https://oneusgconnect.usg.edu/). Failing to keep track of your time may mean that your paycheck will not be correct. At the very least, it will create extra work for your supervisors and our office staff, who are already busy.
 
+{% hint style="danger" %}
 If you forget to clock-in or out or you notice your hours on your timesheet are not correct, then please let the Time Approver know as soon as possible.
+{% endhint %}
 
 This is what you should see when you login to OneUSG. Here you can access the **Report Time** clock feature and check on your **Weekly Timesheet** to make sure your hours are correct.
 
