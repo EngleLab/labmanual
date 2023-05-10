@@ -15,3 +15,7 @@
 * [⏰ Lab Shifts](lab-policies/lab-shifts.md)
 * [👌 Lab Etiquette](lab-policies/lab-etiquette.md)
 * [🧑🔬 Get More Involved](lab-policies/get-more-involved.md)
+
+## Data and Software
+
+* [🗃 Data and Files](data-and-software/data-and-files.md)
