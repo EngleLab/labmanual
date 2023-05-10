@@ -1,4 +1,4 @@
-# People
+# Lab Overview
 
 **Randall W. Engle**, Ph.D. (Principal Investigator)\
 Professor, School of Psychology\
