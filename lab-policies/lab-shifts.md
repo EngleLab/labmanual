@@ -86,3 +86,7 @@ Missing shifts for class-related things (writing a paper, studying for a test, t
 Emergencies come up. Let the lab manager or a graduate student know if something is going on and you need to miss on short notice. We reserve the right to ask for documentation and, if this becomes a common occurrence, we will do so.
 
 It is important to be on time. You will often be relieving someone else or coming in just as the lab opens/participants start showing up; if your shift starts at 10:00am be **in the lab** at 10:00am. Occasionally an RA is scheduled to come in right after a class or your shift ends right before the start of another class. We try to schedule shifts to avoid such instances, but this is not always possible. If that is your situation, let the lab manager or supervising graduate student know in advance, and you will be fine to leave a few minutes early or come in a few minutes late without penalty. **Other than that, tardiness (being even a minute late) will not be tolerated.** Again, if there is a legitimate reason that you are habitually late, just come talk to someone about it.
+
+### Independence
+
+After training, RAs are expected to be knowledgeable and comfortable with lab and study procedures and to function independently and proactively. If lab managers, graduate students, or other RAs are consistently reminding or encouraging you to fulfill your lab duties, there is a problem.
