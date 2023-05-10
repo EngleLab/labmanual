@@ -12,8 +12,5 @@
 ## Lab Policies
 
 * [⚖ Ethics and Liability](lab-policies/ethics-and-liability.md)
-
-***
-
-* [⏰ Lab Shifts](lab-shifts.md)
-* [👌 Lab Etiquette](lab-etiquette.md)
+* [⏰ Lab Shifts](lab-policies/lab-shifts.md)
+* [👌 Lab Etiquette](lab-policies/lab-etiquette.md)

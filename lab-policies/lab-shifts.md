@@ -14,7 +14,7 @@ The first week for each RA should be devoted to the following:
 If you are working for pay or Federal Work Study you will need to clock-in and clock-out every shift using [OneUSG Connect](https://oneusgconnect.usg.edu/). Failing to keep track of your time may mean that your paycheck will not be correct. At the very least, it will create extra work for your supervisors and our office staff, who are already busy.
 
 {% hint style="danger" %}
-If you forget to clock-in or out or you notice your hours on your timesheet are not correct, then please let the [Time Approver](lab-overview/people.md) know as soon as possible.
+If you forget to clock-in or out or you notice your hours on your timesheet are not correct, then please let the [Time Approver](../lab-overview/people.md) know as soon as possible.
 {% endhint %}
 
 ### Supervisor
