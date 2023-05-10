@@ -1,5 +1,6 @@
 ---
 description: Research Assistant Lab Manual
+layout: landing
 ---
 
 # Attention & Working Memory Lab
