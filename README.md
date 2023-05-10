@@ -4,4 +4,4 @@ description: Research Assistant Lab Manual
 
 # Attention & Working Memory Lab
 
-![](.gitbook/assets/gt\_logo.png)
+<figure><img src=".gitbook/assets/gt_logo.png" alt=""><figcaption></figcaption></figure>
