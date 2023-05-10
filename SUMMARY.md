@@ -4,6 +4,7 @@
 
 ## Lab Overview
 
+* [🧠 What We Study](lab-overview/what-we-study.md)
 * [🙋 People](lab-overview/people.md)
 * [🥼 Working in Our Lab](lab-overview/working-in-our-lab.md)
 * [📋 Onboarding](lab-overview/onboarding.md)
