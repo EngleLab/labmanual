@@ -16,3 +16,4 @@
 ***
 
 * [⏰ Lab Shifts](lab-shifts.md)
+* [👌 Lab Etiquette](lab-etiquette.md)
