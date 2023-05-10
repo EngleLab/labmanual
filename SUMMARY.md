@@ -20,3 +20,9 @@
 
 * [🗃 File Storage](data-and-software/file-storage.md)
 * [🧑💻 Software](data-and-software/software.md)
+
+***
+
+* [🌐 Lab Website](https://englelab.gatech.edu/)
+* [📘 Lab Publications](https://englelab.gatech.edu/publications)
+* [☎ Department Contacts](department-contacts.md)
