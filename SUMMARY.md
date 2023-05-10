@@ -19,3 +19,4 @@
 ## Data and Software
 
 * [🗃 File Storage](data-and-software/file-storage.md)
+* [🧑💻 Software](data-and-software/software.md)

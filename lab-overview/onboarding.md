@@ -10,7 +10,7 @@ description: >-
 The first thing you should do is bookmark this lab manual so you always have easy access to it and can return to it anytime you have a question about something.
 {% endhint %}
 
-### CITI Training
+## CITI Training
 
 All researchers must have active Collaborative Institutional Training Initiative (CITI) training to interact with participants or assist in data collection and analysis. RAs are responsible for keeping their CITI training up to date. For our lab, you need to complete all the modules within the Group 2 Social / Behavioral Research Investigators and Key Personnel.
 
@@ -20,7 +20,7 @@ At the end, you should get a completion report that looks like the following. Se
 
 <figure><img src="../.gitbook/assets/citi.PNG" alt=""><figcaption></figcaption></figure>
 
-### Complete HR Paperwork
+## Complete HR Paperwork
 
 If you plan on working for pay there are several steps to get you hired through Georgia Tech Human Resources.&#x20;
 
@@ -32,7 +32,7 @@ Please complete any steps with HR (e.g., signing the I-9 form) as quickly as pos
 
 If you have any questions about completing the hiring process, direct your questions to our finance staff Kaysha Chandler ([kaysha.corniffe@psych.gatech.edu](mailto:kaysha.corniffe@psych.gatech.edu)).
 
-### Sign-up for Credit
+## Sign-up for Credit
 
 If you plan on working for course credit you will choose one of 4 options listed below:
 
@@ -62,7 +62,7 @@ Once you have figured out which course you will be taking you will need to fill 
 
 Let us know when the request is sent and we will inform Dr. Engle so it is approved (usually takes around 24 hours). Once the request is filled register for the course as usual.
 
-### OneUSG
+## OneUSG
 
 {% hint style="info" %}
 If you are working for course credit, you can ignore this section. It only applies to RAs working for pay.
@@ -76,7 +76,7 @@ When you first start working you will have to keep track of your hours - start a
 
 We have an <mark style="color:green;">#ra-payroll</mark> channel on Slack. If you are working for pay or Federal Work Study, then you need to make sure you are added to this Slack channel. Please check if you are or not. If you are not, then join the channel or request that the Lab Manager or Time Approver adds you to the channel.
 
-### Clock-in and Clock-out
+## Clock-in and Clock-out
 
 If you are working for pay or Federal Work Study you will need to clock-in and clock-out every shift using [OneUSG Connect](https://oneusgconnect.usg.edu/). Failing to keep track of your time may mean that your paycheck will not be correct. At the very least, it will create extra work for your supervisors and our office staff, who are already busy.
 
@@ -90,11 +90,11 @@ This is what you should see when you login to OneUSG. Here you can access the **
 
 Questions and concerns about your timesheet can also be directed to Kaysha Chandler ([kaysha.corniffe@psych.gatech.edu](mailto:kaysha.corniffe@psych.gatech.edu)) or Sandra Wilson ([sandra.wilson@psych.gatech.edu](mailto:sandra.wilson@psych.gatech.edu)).
 
-### Slack
+## Slack
 
 We primarily use Slack for lab communications. [Join our Labs Slack Workspace](https://join.slack.com/t/englelab-gatech/signup) and make sure your settings are such that you are able to receive notifications from posts and direct messages.
 
-### Website Profile
+## Website Profile
 
 Send the [Website Manager](people.md) a photo and information about yourself to be added onto our [lab website](https://englelab.gatech.edu/people).
 

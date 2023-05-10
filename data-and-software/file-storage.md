@@ -2,7 +2,7 @@
 
 We use Microsoft SharePoint to store and sync most of our files. However, we also store files on Dropbox, a Georgia Tech Z: drive server, and backup hard drives in the lab.
 
-### SharePoint
+## SharePoint
 
 SharePoint functions just like Google Drive (e.g., Google Docs, Sheets, etc.) but more Microsoft documents (e.g., Word, Excel, ect.).&#x20;
 
@@ -21,14 +21,14 @@ For now, there are three main folders on our lab's SharePoint:
 * **Data Analysis**\
   Files for data analysis projects (intended for publication or just exploration of our data) are stored here.&#x20;
 
-### Z: Drive
+## Z: Drive
 
 The running room computers have restricted network access so we cannot upload or sync files through services like SharePoint. Therefore, the Z: drive acts as a central server to move files to and from the running room computers and our other lab computers.&#x20;
 
 We use the Z: drive to:
 
 1. **Store the Subject Database**\
-   This is where we store sensitive and identifiable data on our subjects that have participated in all the studies in our lab going back many years. This is a very important document and needs to be updated with every participant that comes in.
+   This is where we store sensitive and identifiable data on our subjects that have participated in all the studies in our lab going back many years. This is a very important document and needs to be updated with every participant that comes in. The database and the participant files are also the only places that link participant names to subject ID numbers and are thus highly sensitive.
 2. **Copy subject data files** \
    Data files from an ongoing data collection study need to be copied over to the Z: drive and eventually onto SharePoint from another computer in the lab. Every study will have an R script called copy\_to\_zdrive.R that will automatically copy over all data files for that study to the Z: drive. RAs can be trained on how to do this process. Graduate students are responsible for writing the R script.
 3. **Add and update task files**\
@@ -36,7 +36,7 @@ We use the Z: drive to:
 
 The Z: drive has limited storage space, and we would have to pay for more, so it is primarily just used for the temporary transfer of files.&#x20;
 
-### Backup Hard Drive
+## Backup Hard Drive
 
 We have a 12 TB backup hard drive in our lab. We use this as a general backup for lab data and files.
 
@@ -44,7 +44,7 @@ When a data collection study is finished, we back up all the raw data files to t
 
 Also, given that eye tracking data files can use up a lot of storage we also use it as a central repository for our eye tracking data.
 
-### Dropbox
+## Dropbox
 
 We also have some lab files and even study data files stored on Dropbox. This is mainly because we started with Dropbox and have not ported it all over to SharePoint.
 
@@ -57,3 +57,6 @@ Some critical documents we have on Dropbox are:
 * Data files from older studies in our lab
 
 Dropbox is also locally synced to both contorol room computers
+
+## Subject Folders
+
