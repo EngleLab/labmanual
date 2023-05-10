@@ -21,6 +21,31 @@ The graduate student or other senior lab personnel listed on the schedule for yo
 6. Assisting RAs with any aspect of the study procedures
 7. Ensuring that breaks are taken for all qualifying shifts, and that they are taken at a reasonable time
 
+### RA Assignments
+
+There are two main roles that RAs perform on their shift: the "runner" and the "controller".
+
+The "runner" is the one that sits in the running room to administer the tasks and take any notes in the electronic running room lab notebook.
+
+The "controller" is the one that sits in the control room to monitor emails, schedule participants, welcome participants on arrival and obtain informed consent, maintain the subject database, and more.
+
+It is up the RAs working the current shift to determine who does what role. In general, it is a good idea to get experience in both roles over the course of your time in the lab.
+
+### When There is Nothing to Do
+
+The RA in the control room will often find that there is a lot of down time. We highly prefer that you use that time to do lab related work and not use it for your own personal work or free time.&#x20;
+
+Here is a list of things you can do when there is down time:
+
+1.  **Check that the subject database is up-to-date**
+
+    Have all the participants that came in today been added to the database. What about participants yesterday? Make sure their session date has been added! Is all their other information filled in?&#x20;
+2. **Send out reminder emails** \
+   Reminder emails need to be sent out for all participants coming in the next day
+3. **Check that the schedule is accurate and updated**\
+   Mistakes get made. That is okay. Always double check things like the schedule. For example, maybe you notice that a subject was scheduled twice for the same session. Check the email to see if they rescheduled, it might be the case that someone forgot to remove the session they needed to cancel.&#x20;
+4.
+
 ### Absense & Tardiness
 
 If you must miss a shift for a non-emergency reason, the lab manager or a graduate student needs to know **as soon as possible**, preferably with at least a day’s notice. You also need to try to find someone to cover your shift and give them reasonably advanced notice.
@@ -33,12 +58,4 @@ Emergencies come up. Let the lab manager or a graduate student know if something
 
 It is important to be on time. You will often be relieving someone else or coming in just as the lab opens/participants start showing up; if your shift starts at 10:00am be **in the lab** at 10:00am. Occasionally an RA is scheduled to come in right after a class or your shift ends right before the start of another class. We try to schedule shifts to avoid such instances, but this is not always possible. If that is your situation, let the lab manager or supervising graduate student know in advance, and you will be fine to leave a few minutes early or come in a few minutes late without penalty. **Other than that, tardiness (being even a minute late) will not be tolerated.** Again, if there is a legitimate reason that you are habitually late, just come talk to someone about it.
 
-### RA Assignments
-
-There are two main roles that RAs perform on their shift: the "runner" and the "controller".
-
-The "runner" is the one that sits in the running room to administer the tasks and take any notes in the electronic running room lab notebook.
-
-The "controller" is the one that sits in the control room to monitor emails, schedule participants, welcome participants on arrival and obtain informed consent, maintain the subject database, and more.
-
-It is up the RAs working the current shift to determine who does what role. In general, it is a good idea to get experience in both roles over the course of your time in the lab.
+###
