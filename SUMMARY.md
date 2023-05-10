@@ -6,6 +6,6 @@
 
 * [🙋 People](lab-overview/people.md)
 * [🥼 Working in Our Lab](lab-overview/working-in-our-lab.md)
-* [Onboarding](lab-overview/onboarding.md)
+* [📋 Onboarding](lab-overview/onboarding.md)
 
 ## Onboarding

@@ -4,7 +4,7 @@ description: >-
   the lab. This page will outline each of those steps.
 ---
 
-# Onboarding
+# 📋 Onboarding
 
 {% hint style="success" %}
 The first thing you should do is bookmark this lab manual so you always have easy access to it and can return to it anytime you have a question about something.
