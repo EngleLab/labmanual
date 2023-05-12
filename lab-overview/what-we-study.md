@@ -2,9 +2,9 @@
 
 Randy Engle’s Attention and Working Memory Lab studies cognitive functioning from the individual differences perspective. This involves assessing individuals’ cognitive abilities on a wide range of constructs (working memory capacity, attention control, task switching, updating, general discrimination ability, prospective memory, speed-accuracy tendencies, and so on) to
 
-1. Gain theoretical understanding of the underlying mechanisms behind these constructs,
-2. Investigate the relationships among these abilities, and
-3. Assess how these abilities predict performance on real world behavior and constructs, such as fluid intelligence, multitasking, language acquisition, and military performance.
+1. Gain theoretical understanding of the underlying mechanisms behind these constructs
+2. Investigate the relationships among these abilities
+3. Assess how these abilities predict performance on real world behavior and constructs, such as fluid intelligence, multitasking, language acquisition, and military performance
 
 As measured by Google Scholar, our lab’s work has been cited over 55,000 times which is the 10th most cited lab in all of Georgia Tech. The scope of our work is broad. We have conducted studies looking at genetic predictors of intelligence, using working memory capacity tasks to predict flight simulation errors among sleep-deprived Air Force pilots, using baseline pupil size to predict intelligence, assessing brain activity during complex tasks using electroencephalogram (EEG), and many others. We often collaborate with other researchers, with recent examples being investigating the negative effects of pollution in Mexico City on cognitive functioning and how cognitive ability and natural disasters play a role in the way impoverished farmers in Kenya make economic decisions (when to buy or sell livestock, type of crops grown, etc.).
 
