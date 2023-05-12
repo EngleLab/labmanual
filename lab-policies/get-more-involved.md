@@ -8,7 +8,7 @@ You can usually start the process of getting more involved in the research by ta
 
 ## Read, Read, Read
 
-I know you hate to hear this, but to make discuss ideas and make significant contributions to a project you need to have a foundation of knowledge about our work and the related literature. Unfortunately, this means reading articles. A good idea would be to setup an undergraduate lab meeting (see below) or a lab journal club where you can all read and discuss articles together.&#x20;
+I know you hate to hear this, but to discuss ideas and make significant contributions to a project you need to have a foundation of knowledge about our work and the related literature. Unfortunately, this means reading articles. A good idea would be to setup an undergraduate lab meeting (see below) or a lab journal club where you can all read and discuss articles together.&#x20;
 
 ## Learn R
 
