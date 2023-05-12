@@ -47,7 +47,7 @@ Besides your normal responsibilities, here is a list of things you can do when t
 
 1.  **Check that the subject database is up-to-date**
 
-    Have all the participants that came in today been added to the database. What about participants yesterday? Make sure their session date has been added! Is all their other information filled in?&#x20;
+    Have all the participants that came in today been added to the database? What about participants yesterday? Make sure their session date has been added! Is all their other information filled in?&#x20;
 2. **Check that the schedule is accurate and updated**\
    Mistakes get made. That is okay. Always double check things like the schedule. For example, maybe you notice that a subject was scheduled twice for the same session. Check the email to see if they rescheduled, it might be the case that someone forgot to remove the session they needed to cancel.&#x20;
 3. **Are there enough lab / study materials?**\
