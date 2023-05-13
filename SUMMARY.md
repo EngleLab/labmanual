@@ -16,12 +16,12 @@
 * [⚖ Ethics and Liability](lab-policies/ethics-and-liability.md)
 * [⏰ Lab Shifts](lab-policies/lab-shifts.md)
 * [👌 Lab Etiquette](lab-policies/lab-etiquette.md)
-* [🧑🔬 Get More Involved](lab-policies/get-more-involved.md)
+* [👩🔬 Get More Involved](lab-policies/get-more-involved.md)
 
 ## Data and Software
 
 * [🗃 File Storage](data-and-software/file-storage.md)
-* [🧑💻 Software](data-and-software/software.md)
+* [👩💻 Software](data-and-software/software.md)
 
 ***
 
