@@ -48,7 +48,7 @@ Besides your normal responsibilities, here is a list of things you can do when t
 1.  **Check that the subject database is up-to-date**
 
     Have all the participants that came in today been added to the database? What about participants yesterday? Make sure their session date has been added! Is all their other information filled in?&#x20;
-2. **Check that the schedule is accurate and updated**\
+2. **Check that the schedule (and other documents) is accurate and updated**\
    Mistakes get made. That is okay. Always double check things like the schedule. For example, maybe you notice that a subject was scheduled twice for the same session. Check the email to see if they rescheduled, it might be the case that someone forgot to remove the session they needed to cancel.&#x20;
 3. **Are there enough lab / study materials?**\
    Do more subject folders need to be created? Are any forms printed out (e.g., informed consent)? Are we running low on any supplies - let the lab manager know.&#x20;
@@ -57,7 +57,7 @@ Besides your normal responsibilities, here is a list of things you can do when t
 5. **Read our lab's publications (or publications related to our work)**\
    This is a great way to be more informed as to the actual research we are doing and would be required if you want to get more involved in the lab. See our [publications](https://englelab.gatech.edu/publications) page or ask any of the graduate students if there is anything you should be reading.
 6. **Watch recorded lab meetings**\
-   We will try to record our lab meetings, that way if you want to stay informed on current projects and data you can do so.
+   We will try to record certain lab meetings, that way if you want to stay informed on current projects and data you can do so.
 7. **Learn how to use R**\
    We primarily use the programming language R to manage and process our data. If you become familiar with how to use R, this would be a great way for you to get more involved in the research. You can learn from many of the resources that are available online in addition to our lab's [useRguide](https://englelab.gatech.edu/useRguide/) that covers workflows and packages more specific to our lab.
 8. **Chat with us**\
