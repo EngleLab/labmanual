@@ -22,7 +22,6 @@
 
 * [🗃 File Storage](data-and-software/file-storage.md)
 * [👩💻 Software](data-and-software/software.md)
-* [📖 useRguide](https://englelab.gatech.edu/useRguide/)
 
 ***
 

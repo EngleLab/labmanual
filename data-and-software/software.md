@@ -1,4 +1,4 @@
-# 🧑💻 Software
+# 👩💻 Software
 
 ## Task Programming
 
@@ -57,6 +57,6 @@ Content coming soon...
 
 ### OBS
 
-Content coming soon...
+Content coming soon..
 
 ###
