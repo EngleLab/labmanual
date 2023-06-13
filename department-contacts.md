@@ -2,25 +2,5 @@
 
 Below is a list of people in the department you should know and feel comfortable directing questions toward. You will also find their contact information, title, and topics with which they can help or advise.
 
-**Leslie McCoy (Senior Administrative Manager)**\
-Contact: lmccoy34@gatech.edu\
-Questions: Parking, building maintenance, hiring/HR, participant payment issues, parking issues/logs, general questions/concerns
+<table data-view="cards"><thead><tr><th></th><th></th><th>Email</th><th>Responsibilities</th></tr></thead><tbody><tr><td><strong>Kaysha Chandler</strong></td><td>Financial Manager II</td><td>kaysha.corniffe@psych.gatech.edu</td><td><mark style="color:green;">Undergraduate RA Hiring, Time Sheets, Payment</mark><br><mark style="color:green;">Key Requests</mark><br><mark style="color:green;">Federal Work Study</mark></td></tr><tr><td><strong>Tikica Platt</strong></td><td>Administrative Manager II</td><td>tikica.platt@psych.gatech.edu</td><td><mark style="color:green;">Tech Temp Hiring, Time Sheets, Payment</mark></td></tr><tr><td><strong>Shebbie Murray</strong></td><td>Academic Program Coordinator</td><td>shebbie.murray@psych.gatech.edu</td><td><mark style="color:green;">Research for Course Credit</mark></td></tr><tr><td><strong>Kristie Clark</strong> </td><td>Assistant to Chair</td><td>kristie.clark@psych.gatech.edu</td><td><mark style="color:green;">Buzzcard Access</mark><br><mark style="color:green;">Building Maintenance</mark><br><mark style="color:green;">General Questions/Concerns</mark></td></tr><tr><td><strong>Leslie McCoy</strong></td><td>Senior Administrative Manager</td><td>lmccoy34@gatech.edu</td><td><mark style="color:green;">Participant Payment</mark><br><mark style="color:green;">Parking Issues</mark></td></tr><tr><td><strong>Sandra Wilson</strong></td><td>Financial Manager I</td><td>sandra.wilson@psych.gatech.edu</td><td><mark style="color:green;">Main Financial Contact</mark></td></tr></tbody></table>
 
-**Tikica Platt (Administrative Manager II)**\
-Contact: tikica.platt@psych.gatech.edu\
-Questions: Parking, building maintenance, Tech Temp hiring/HR, Tech Temp time sheets/payment issues, general questions/concerns
-
-**Kristie Clark (Assistant to Chair)**\
-Contact: kristie.clark@psych.gatech.edu Questions: Parking, building maintenance, buzzcard access, hiring/HR, general questions/concerns
-
-**Sandra Wilson (Financial Manager I)**\
-Contact: sandra.wilson@psych.gatech.edu\
-Questions: Time sheets/compensation, key requests, hiring/HR
-
-**Kaysha Chandler (Financial Administrator II)**\
-Contact: kaysha.corniffe@psych.gatech.edu\
-Questions: Undergraduate time sheets/compensation, Federal Work Study, key requests, undergraduate hiring/HR
-
-**Shebbie Murray (Academic Program Coordinator)**\
-Contact: shebbie.murray@psych.gatech.edu\
-Questions: Research for course credit
